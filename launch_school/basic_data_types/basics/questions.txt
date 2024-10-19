@@ -1,0 +1,77 @@
+
+    What are the basic arithmetic operators you can use on numbers?
+
+    addition, substraction, multiply and dividing 
+
+    What’s the difference between an integer and a float?
+    
+    a float has numbers after the point and a integer is only a number
+    
+    What method would you use to convert a float to an integer?
+
+    to_i 
+
+    What method would you use to convert an integer to a float?
+
+    to.f 
+
+    What is a string?
+    
+    a string is a collection of letters 
+
+    What are the differences between single and double quotes?
+    
+    with single quotes you do not have string interpolation with doubles quotes you have. 
+
+    What is string interpolation?
+
+    String interpolation is that you can use placeholders for variables content.
+
+    How do you concatenate strings?
+     
+    string 1 + string2 and so on 
+    
+    What method would you use to change all the characters in your string to upper case?
+    
+    to_upcase
+    
+    What method would you use to split up strings into arrays?
+    
+    split 
+
+    What are escape characters?
+    
+    escape characters are characters that for example to add newlines or tabs to a string
+    
+    How do you access a specific character or substring?
+
+    string.index[]
+
+    How do you convert other data types into strings?
+
+    to_s 
+
+    What is a symbol?
+    
+    A symbol is a special string that cannot be changed. It is stored only once and used a lot.
+    
+    How do you create a symbol?
+
+    :my_symbol 
+
+    What’s the difference between a symbol and a string?
+    
+    A symbol cannot be changed and a string can. 
+    And a symbol is read only once and stored in memory.
+        
+    What does true represent?
+    
+    That something is true
+    
+    What does false represent?
+
+    That something is false
+    
+    What does nil represent?
+
+    That something is "nothing"
